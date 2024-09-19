@@ -12,4 +12,4 @@ lucaszh27@gmail.com
 
 @lucaaszk.h
 
-![](https://tenor.com/pt-BR/view/l-death-note-lawliet-death-note-gif-21735451)
+![]([https://tenor.com/pt-BR/view/l-death-note-lawliet-death-note-gif-21735451](https://media1.tenor.com/m/F2Q0evzQD7cAAAAC/l-death-note-lawliet.gif))
