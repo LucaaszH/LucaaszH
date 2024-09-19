@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil! 👋
 
-<!--
-**LucaaszH/LucaaszH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é *Lucas Henrique Corrêa*.
 
-Here are some ideas to get you started:
+- Estou atualmente realizando o curso de **"TEC e Robótica: Programação"** na [ALURA] (https://www.Alura.com.br) ;
+- Com esse curso estou me desenvolvendo no básico da linguagem de programação JavaScript ;
+- Utilizo desse repositório para armazenar todo meu aprendizado e projetos durante esse curso ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociais e Contato: 📌
+
+lucaszh27@gmail.com
+
+@lucaaszk.h
+
+![](https://tenor.com/pt-BR/view/l-death-note-lawliet-death-note-gif-21735451)
