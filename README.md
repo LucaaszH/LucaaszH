@@ -2,10 +2,10 @@
 
 Meu nome é *Lucas Henrique Corrêa*, tenho 16 anos e sou um estudante de **T.I**.
 
-- Estou atualmente realizando o curso de **"TEC e Robótica: Programação"** na [ALURA](https://www.Alura.com.br) ;
-- Mas já conclui outros cursos como: **Competência Transversal - Lógica de Programação**, **Programação em C#**, e por fim **AWS CLOUD: FOUNDATIONS** ;
-- Com esse curso atual estou me desenvolvendo no básico da linguagem de programação JavaScript ;
-- Utilizo desse repositório para armazenar todo meu aprendizado e projetos durante este curso, e também de alguns projetos dos cursos em outras linguagens de programação ;
+- Atualmente, estou realizando o curso **"TEC e Robótica: Programação"** na [ALURA](https://www.Alura.com.br) ;
+- Já conclui outros cursos, como: **Competência Transversal - Lógica de Programação**, **Programação em C#**, e **AWS CLOUD: FOUNDATIONS** ;
+- No curso atual, estou me desenvolvendo nos fundamentos da linguagem de programação JavaScript ;
+- Utilizo este repositório para armazenar todo o meu aprendizado e projetos durante esse curso, bem como de outros cursos em diferentes linguagens de programação.
 
 ## Redes Sociais / Contato: 📌
 
