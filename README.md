@@ -1,6 +1,6 @@
 ## Bem Vindo ao meu perfil! 👋
 
-Meu nome é *Lucas Henrique Corrêa*, tenho 16 anos e sou um estudante de **Engenharia de Softwares**.
+Meu nome é *Lucas Henrique Corrêa*, tenho 16 anos e sou um estudante de **T.I**.
 
 - Estou atualmente realizando o curso de **"TEC e Robótica: Programação"** na [ALURA](https://www.Alura.com.br) ;
 - Mas já conclui outros cursos como: **Competência Transversal - Lógica de Programação**, **Programação em C#**, e por fim **AWS CLOUD: FOUNDATIONS** ;
