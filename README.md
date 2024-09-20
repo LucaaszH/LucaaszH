@@ -15,4 +15,4 @@ Meu nome é *Lucas Henrique Corrêa*, tenho 16 anos e sou estudante de **Tecnolo
 
 `LINKEDIN` Lucas Henrique Corrêa de Oliveira
 
-![](https://media1.tenor.com/m/F2Q0evzQD7cAAAAC/l-death-note-lawliet.gif)
+![](https://media1.tenor.com/m/JVNOIRW73IcAAAAC/gachiakuta-zanka-gachiakuta.gif)
