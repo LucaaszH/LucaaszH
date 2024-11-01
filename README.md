@@ -13,6 +13,6 @@ Meu nome é *Lucas Henrique Corrêa*, tenho 16 anos e sou estudante de **Tecnolo
 
 `GMAIL` lucaszh27@gmail.com
 
-`LINKEDIN` Lucas Henrique Corrêa de Oliveira
+`LINKEDIN` Lucas Henrique Corrêa
 
 ![](https://media1.tenor.com/m/h4-0ehKadwYAAAAC/sanji-love-pose.gif)
